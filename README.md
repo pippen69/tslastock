@@ -26,6 +26,6 @@
 
 This project was done on Google Colab
 
---INSTALLATION REQUIREMENTS--
-!pip install --upgrade numpy
-!pip install --upgrade pandas_ta
+--INSTALLATION REQUIREMENTS-- 
+<br>!pip install --upgrade numpy</br>
+<br>!pip install --upgrade pandas_ta</br>
